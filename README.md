@@ -1,5 +1,7 @@
 # Live Alerts: a hyperDart safety-alert component
 
+▶️ **[Watch the demo video](https://youtu.be/gWPd6j-Rf9k)** · 📦 Published as `@user1985/live-alerts` on the hyperDart dev registry
+
 When someone searches *"weather alerts in Houston"* or *"is there a heat advisory in Phoenix"*, this component answers four questions in one look:
 
 > **Is anything happening there right now? How serious is it? Where exactly? Until when?**
