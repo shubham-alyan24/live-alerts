@@ -66,5 +66,7 @@ export default  {
 		// key-values added here will be added to the compInfo section of searchData
 	},
 	github: "https://github.com/shubham-alyan24/live-alerts",
-	demovideo: "https://youtu.be/gWPd6j-Rf9k"
+	demovideo: "https://youtu.be/gWPd6j-Rf9k",
+	// The publish docs spell it "demoVideo"; the template's validator uses "demovideo". Keep both.
+	demoVideo: "https://youtu.be/gWPd6j-Rf9k"
 }
