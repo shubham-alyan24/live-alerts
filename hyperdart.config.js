@@ -66,5 +66,5 @@ export default  {
 		// key-values added here will be added to the compInfo section of searchData
 	},
 	github: "https://github.com/shubham-alyan24/live-alerts",
-	demovideo: ""
+	demovideo: "https://youtu.be/gWPd6j-Rf9k"
 }
